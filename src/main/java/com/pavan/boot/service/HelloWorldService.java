@@ -1,4 +1,4 @@
-package com.pavan.boot.helloworld;
+package com.pavan.boot.service;
 
 import org.springframework.stereotype.Service;
 

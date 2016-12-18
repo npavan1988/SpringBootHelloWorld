@@ -1,4 +1,4 @@
-package com.pavan.boot.helloworld;
+package com.pavan.boot;
 
 import org.junit.Before;
 import org.junit.Test;
