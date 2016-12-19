@@ -12,11 +12,14 @@ Docker Image: npavan/demo
 $ docker run -p 8081:8080 npavan/demo
 
 #url's
-Request: GET: http://localhost:8081/all/hello/pavan
-Response:[Namaste pavan, Ola pavan, Salaam pavan, Hello pavan, Hola pavan, Hallo pavan, Bonjour pavan]
+Request1: GET: http://localhost:8081/all/hello/pavan
 
-Request: GET: http://localhost:8081/hello
-Response: Hello World
+Response1:[Namaste pavan, Ola pavan, Salaam pavan, Hello pavan, Hola pavan, Hallo pavan, Bonjour pavan]
 
-Request: GET: http://localhost:8081/HI/hello
-Response: Namaste World
+Request2: GET: http://localhost:8081/hello
+
+Response2: Hello World
+
+Request3: GET: http://localhost:8081/HI/hello
+
+Response3: Namaste World
